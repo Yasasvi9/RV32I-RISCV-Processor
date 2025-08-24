@@ -1,6 +1,6 @@
 # RV32I RISC-V Processor (5-Stage Pipeline)
 
-This repository contains the hardware implementation of a 5-stage pipelined RISC-V processor supporting the full RV32I + ZM\* ISA extensions. The design includes pipeline hazard detection and resolution, data forwarding, and dual-port memory, built and tested on the BLACKBOARD FPGA platform using Vivado.
+This repository contains the hardware implementation of a 5-stage pipelined 32-bit RISC-V processor supporting the full RV32I + ZM\* ISA extensions. The design includes pipeline hazard detection and resolution, data forwarding, and dual-port memory, built and tested on the BLACKBOARD FPGA platform using Vivado.
 
 ## Features
 
