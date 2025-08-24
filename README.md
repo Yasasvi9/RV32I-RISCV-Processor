@@ -47,7 +47,7 @@ Cycle-accurate behavior and internal signals were captured using Vivado ILA, ens
 
 ## License
 
-This project is licensed under the MIT License or another license of your choice.
+This project is licensed under .
 
 ## Acknowledgments
 
