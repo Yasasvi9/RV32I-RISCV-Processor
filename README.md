@@ -43,11 +43,11 @@ Cycle-accurate behavior and internal signals were captured using Vivado ILA, ens
    ```
 2. Open the project in Xilinx Vivado.
 3. Synthesize, implement, and program the FPGA board.
-4. (Optional) Use provided ILA setups for runtime debugging.
+4. Use the VIVADO ILA for runtime debugging.
 
 ## License
 
-This project is licensed under .
+This project is licensed under a proprietary license.
 
 ## Acknowledgments
 
